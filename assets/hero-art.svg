@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 560" role="img" aria-labelledby="title desc">
+  <title id="title">Mikrofon, qəhvə və Bakı gecəsi</title>
+  <desc id="desc">Podcast by Tural üçün dekorativ illüstrasiya</desc>
+  <defs>
+    <linearGradient id="mic" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#ead8b6"/><stop offset="1" stop-color="#8b704a"/></linearGradient>
+    <linearGradient id="cup" x1="0" x2="1"><stop offset="0" stop-color="#bb6848"/><stop offset="1" stop-color="#713621"/></linearGradient>
+    <linearGradient id="city" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#1e2636"/><stop offset="1" stop-color="#0d0f13"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <circle cx="290" cy="260" r="205" fill="#12151b"/>
+  <circle cx="290" cy="260" r="166" fill="none" stroke="#c7a66c" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M90 244c20-76 78-138 153-163" fill="none" stroke="#c7a66c" stroke-opacity=".62" stroke-width="4" stroke-linecap="round"/>
+  <path d="M470 304c-23 70-75 123-145 148" fill="none" stroke="#b8603f" stroke-opacity=".7" stroke-width="4" stroke-linecap="round"/>
+
+  <g opacity=".72">
+    <path d="M57 447h470v44H57z" fill="url(#city)"/>
+    <path d="M94 447v-46h34v46m21 0v-73h46v73m18 0v-58h31v58m24 0v-95h45v95m20 0v-69h37v69m19 0v-50h29v50m21 0v-82h44v82" fill="#20283a"/>
+    <path d="M366 447c-17-42-5-90 28-119-7 29 6 59 32 74-27 0-48 19-60 45Z" fill="#cab074" opacity=".9"/>
+    <circle cx="456" cy="388" r="5" fill="#e2bb6c"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="253" y="96" width="94" height="186" rx="46" fill="url(#mic)"/>
+    <rect x="268" y="114" width="64" height="112" rx="30" fill="#202025"/>
+    <path d="M280 137h40M280 158h40M280 179h40M280 200h40" stroke="#d4b678" stroke-opacity=".5" stroke-width="5" stroke-linecap="round"/>
+    <path d="M228 220v23c0 39 31 70 70 70h4c39 0 70-31 70-70v-23" fill="none" stroke="#ead8b6" stroke-width="12" stroke-linecap="round"/>
+    <path d="M300 313v68M250 381h100" fill="none" stroke="#ead8b6" stroke-width="12" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#shadow)" transform="translate(-42 68) rotate(-7 180 322)">
+    <ellipse cx="181" cy="371" rx="94" ry="22" fill="#000" opacity=".35"/>
+    <path d="M110 258h140v83c0 39-31 70-70 70s-70-31-70-70v-83Z" fill="url(#cup)"/>
+    <ellipse cx="180" cy="258" rx="70" ry="20" fill="#e3b08a"/>
+    <ellipse cx="180" cy="258" rx="57" ry="13" fill="#2d1710"/>
+    <path d="M248 286h18c31 0 44 25 38 47-6 23-27 37-55 31" fill="none" stroke="#8f432d" stroke-width="16" stroke-linecap="round"/>
+    <path d="M151 220c-15-19 8-31-2-50m35 51c-15-19 8-31-2-50m35 51c-15-19 8-31-2-50" fill="none" stroke="#ead8b6" stroke-opacity=".72" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#c7a66c">
+    <circle cx="422" cy="146" r="5" opacity=".8"/>
+    <circle cx="452" cy="177" r="3" opacity=".55"/>
+    <circle cx="94" cy="344" r="4" opacity=".6"/>
+  </g>
+</svg>

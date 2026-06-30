@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-28",
+  "categories": [
+    "Qidalanma",
+    "Çəki idarəetməsi",
+    "İdman və hərəkət",
+    "Enerji və bərpa",
+    "Su və gündəlik içkilər",
+    "Sağlamlıq mifləri"
+  ],
+  "ordanBurdanCategories": [
+    "Təhlükəsizlik",
+    "Gündəlik vərdişlər",
+    "İntizam və motivasiya"
+  ],
+  "episodes": {
+    "zelzele aninda heyatini qoruya bilecek duzgun addimlar": {
+      "category": "Təhlükəsizlik",
+      "tags": ["zəlzələ", "hazırlıq", "təhlükəsizlik", "evdə davranış", "soyuqqanlılıq"],
+      "goals": [],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.88
+    },
+    "azerbaycanda enerji ickilerinin secimi niye mehduddur": {
+      "category": "Su və gündəlik içkilər",
+      "tags": ["enerji içkiləri", "kofein", "bazar seçimi", "şəkər", "qiymət"],
+      "goals": ["drinks", "energy"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.86
+    },
+    "azerbaycanda enerji ickilerinin secimi niye bu qeder mehduddur": {
+      "category": "Gündəlik vərdişlər",
+      "tags": ["enerji içkiləri", "kofein", "bazar seçimi", "şəkər", "qiymət"],
+      "goals": [],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.86
+    },
+    "qehve ne zaman faydalidir ne zaman zerer verir": {
+      "category": "Gündəlik vərdişlər",
+      "tags": ["qəhvə", "kofein", "yuxu", "fokus", "vaxtlama"],
+      "goals": [],
+      "startHere": true,
+      "needsReview": false,
+      "confidence": 0.82
+    },
+    "motivasiya bitende seni ne davam etdirir": {
+      "category": "İntizam və motivasiya",
+      "tags": ["motivasiya", "intizam", "davamlılıq", "sistem", "kiçik addımlar"],
+      "goals": [],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.86
+    },
+    "saglam qidalanmaq ucun dietik mehsullara ehtiyac varmi": {
+      "category": "Qidalanma",
+      "tags": ["dietik məhsullar", "etiket oxuma", "marketinq", "kalori", "tərkib"],
+      "goals": ["nutrition", "myths"],
+      "startHere": true,
+      "needsReview": false,
+      "confidence": 0.9
+    },
+    "gun boyu daha enerjili olmaq ucun ne etmeli": {
+      "category": "Enerji və bərpa",
+      "tags": ["enerji səviyyəsi", "yuxu", "gündəlik ritm", "qidalanma", "hərəkət"],
+      "goals": ["energy"],
+      "startHere": true,
+      "needsReview": false,
+      "confidence": 0.88
+    },
+    "sevdiyin yemeklerden imtina etmeden ariqlamaq mumkundurmu": {
+      "category": "Çəki idarəetməsi",
+      "tags": ["arıqlamaq", "kalori", "porsiya", "sevimli yeməklər", "davamlılıq"],
+      "goals": ["weight", "nutrition"],
+      "startHere": true,
+      "needsReview": false,
+      "confidence": 0.92
+    },
+    "saglam qidalanmani nece davamli verdise cevirmek olar": {
+      "category": "Qidalanma",
+      "tags": ["qidalanma planı", "rutin", "balans", "alış-veriş", "sadə seçimlər"],
+      "goals": ["nutrition"],
+      "startHere": true,
+      "needsReview": false,
+      "confidence": 0.86
+    },
+    "sekersiz ickiler ve qidalar saglamdir yoxsa zererlidir": {
+      "category": "Sağlamlıq mifləri",
+      "tags": ["şəkərsiz məhsullar", "etiket oxuma", "içkilər", "süni dadlandırıcılar", "şəkər"],
+      "goals": ["myths", "nutrition", "drinks"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.9
+    },
+    "ariqlamaga haradan baslamaq lazimdir": {
+      "category": "Çəki idarəetməsi",
+      "tags": ["arıqlamaq", "başlanğıc", "real hədəf", "kalori", "pəhriz"],
+      "goals": ["weight"],
+      "startHere": true,
+      "needsReview": false,
+      "confidence": 0.94
+    },
+    "artiq ceki bedenimize nece tesir edir": {
+      "category": "Çəki idarəetməsi",
+      "tags": ["artıq çəki", "enerji", "yuxu", "oynaq yükü", "hərəkət"],
+      "goals": ["weight", "energy"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.87
+    },
+    "sirniyyat ve fast food ne zaman probleme cevrilir": {
+      "category": "Qidalanma",
+      "tags": ["şirniyyat", "fast food", "porsiya", "şəkər", "duz"],
+      "goals": ["nutrition", "weight"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.89
+    },
+    "is heyatinin getirdiyi qarin 5 6 kilodan nece qurtulmaq olar": {
+      "category": "Çəki idarəetməsi",
+      "tags": ["ofis qarını", "az hərəkət", "kalori", "stress", "oturaq iş"],
+      "goals": ["weight"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.86
+    },
+    "araliqli oruc effektiv pehrizdir yoxsa hamiya uygun deyil": {
+      "category": "Çəki idarəetməsi",
+      "tags": ["aralıqlı oruc", "pəhriz", "iştaha", "aclıq pəncərəsi", "enerji"],
+      "goals": ["weight", "energy"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.88
+    },
+    "soyuq dus yoxsa isti dus hansi daha faydalidir": {
+      "category": "Enerji və bərpa",
+      "tags": ["soyuq duş", "isti duş", "bərpa", "rahatlama", "yuxu"],
+      "goals": ["energy"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.84
+    },
+    "testosteronu tebii yolla artirmaq mumkundurmu": {
+      "category": "Enerji və bərpa",
+      "tags": ["testosteron", "hormon", "məşq", "yuxu", "qidalanma"],
+      "goals": ["energy", "sport"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.82
+    },
+    "cheat meal yoxsa cheat day hansi daha dogrudur": {
+      "category": "Çəki idarəetməsi",
+      "tags": ["cheat meal", "cheat day", "kalori", "pəhriz", "planlı istisna"],
+      "goals": ["weight"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.89
+    },
+    "seker bedenimize nece tesir edir": {
+      "category": "Qidalanma",
+      "tags": ["şəkər", "iştaha", "çəki", "enerji düşməsi", "insulin"],
+      "goals": ["nutrition", "weight"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.86
+    },
+    "terlemek ariqlamaq demekdirmi": {
+      "category": "İdman və hərəkət",
+      "tags": ["tərləmə", "su itkisi", "kalori", "məşq", "arıqlamaq mifi"],
+      "goals": ["sport", "myths", "weight"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.88
+    },
+    "18 yasdan sonra boy artirmaq mumkundurmu": {
+      "category": "Sağlamlıq mifləri",
+      "tags": ["boy artımı", "genetika", "duruş", "böyümə zonaları", "yanlış vəd"],
+      "goals": ["myths"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.86
+    },
+    "kofein ne qeder faydalidir ne vaxt artiqdir": {
+      "category": "Enerji və bərpa",
+      "tags": ["kofein", "yuxu", "tolerantlıq", "enerji", "doza"],
+      "goals": ["energy", "drinks"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.83
+    },
+    "sokolad faydalidir yoxsa zererlidir": {
+      "category": "Qidalanma",
+      "tags": ["şokolad", "kakao", "porsiya", "şəkər", "balans"],
+      "goals": ["nutrition"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.86
+    },
+    "qacmaq yoxsa yerimek hansi daha faydalidir": {
+      "category": "İdman və hərəkət",
+      "tags": ["qaçış", "gəzinti", "oynaqlar", "kardio", "başlanğıc"],
+      "goals": ["sport", "weight"],
+      "startHere": true,
+      "needsReview": false,
+      "confidence": 0.92
+    },
+    "qazli su yoxsa qazsiz su hansi daha yaxsidir": {
+      "category": "Su və gündəlik içkilər",
+      "tags": ["qazlı su", "qazsız su", "hidratasiya", "həzm", "diş minası"],
+      "goals": ["drinks"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.9
+    },
+    "sirkeli ve limonlu su heqiqeten faydalidirmi": {
+      "category": "Sağlamlıq mifləri",
+      "tags": ["sirkəli su", "limonlu su", "risk", "mədə turşuluğu", "səhər ritualı"],
+      "goals": ["myths", "drinks"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.88
+    },
+    "suretli yemek saglamligimiza nece tesir edir": {
+      "category": "Qidalanma",
+      "tags": ["yemək sürəti", "toxluq", "porsiya", "həzm", "diqqətli yemək"],
+      "goals": ["nutrition"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.86
+    },
+    "keyfiyyetli yuxu niye bu qeder vacibdir": {
+      "category": "Enerji və bərpa",
+      "tags": ["yuxu", "bərpa", "performans", "hormonlar", "iştaha"],
+      "goals": ["energy"],
+      "startHere": true,
+      "needsReview": false,
+      "confidence": 0.9
+    },
+    "sud mehsullarini qidalanmadan cixarmaq lazimdirmi": {
+      "category": "Qidalanma",
+      "tags": ["süd məhsulları", "laktoza", "protein", "kalsium", "dözümlülük"],
+      "goals": ["nutrition"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.89
+    },
+    "saglam heyat eslinde ne demekdir": {
+      "category": "Qidalanma",
+      "tags": ["balans", "gündəlik seçimlər", "davamlılıq", "yuxu", "qidalanma"],
+      "goals": ["nutrition", "energy"],
+      "startHere": true,
+      "needsReview": true,
+      "confidence": 0.58
+    },
+    "detoks heqiqeten isleyirmi": {
+      "category": "Sağlamlıq mifləri",
+      "tags": ["detoks", "qaraciyər", "marketinq", "toksin", "mif"],
+      "goals": ["myths"],
+      "startHere": true,
+      "needsReview": false,
+      "confidence": 0.92
+    },
+    "gun erzinde ne qeder su icmeliyik": {
+      "category": "Su və gündəlik içkilər",
+      "tags": ["su ehtiyacı", "hidratasiya", "aktivlik", "hava", "gündəlik norma"],
+      "goals": ["drinks", "energy"],
+      "startHere": true,
+      "needsReview": false,
+      "confidence": 0.91
+    },
+    "enerji ickisi yoxsa coca cola hansi daha zererlidir": {
+      "category": "Su və gündəlik içkilər",
+      "tags": ["enerji içkisi", "Coca-Cola", "kofein", "şəkər", "porsiya"],
+      "goals": ["drinks", "myths"],
+      "startHere": false,
+      "needsReview": false,
+      "confidence": 0.87
+    },
+    "seher yemeyi gunun en vacib yemeyidirmi": {
+      "category": "Qidalanma",
+      "tags": ["səhər yeməyi", "iştaha", "enerji", "rutin", "fərdi ehtiyac"],
+      "goals": ["nutrition", "energy", "myths"],
+      "startHere": true,
+      "needsReview": false,
+      "confidence": 0.88
+    }
+  }
+}
